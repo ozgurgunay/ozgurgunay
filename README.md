@@ -1,6 +1,6 @@
 ### Hey there, I'm Ozgur :wave:
 
-:space_invader: About Me : I am Junior Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+:space_invader: About Me : I am Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 :telescope: I’m working as a Software Developer and contributing to backend and database and frontend for building web applications.
 
