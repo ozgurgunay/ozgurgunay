@@ -8,7 +8,7 @@
 
 :zap: In my free time, I solve algorithm problems and read tech articles.
 
-:cactus: I’m currently learning more C# .NET Core, JavaScript and other technologies I'm curious about.
+:cactus: I’m currently working more C# .NET Core, Python, JavaScript and other technologies.
 
 :space_invader: Fun fact: Paragliding, nature...
 
