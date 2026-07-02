@@ -1,6 +1,6 @@
 ### Hey there, I'm Ozgur :wave:
 
-:space_invader: About Me : I am Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany. 
+:space_invader: About Me : I am Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey(sometimes Germany xD). 
 
 :telescope: I’m working as a Software Developer and contributing to backend and database and frontend for building web applications.
 
