@@ -7,7 +7,7 @@ Backend Development · AI-Assisted Workflows · .NET & Python
 
 I build web applications and use AI to improve everyday development workflows.
 
-[LinkedIn](https://www.linkedin.com/in/ozgur-gunay/) · [GitHub](https://github.com/ozgurgunay)
+[LinkedIn](https://www.linkedin.com/in/ozgur-gunay/)
 
 <br>
 
@@ -15,6 +15,7 @@ I build web applications and use AI to improve everyday development workflows.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-334155?style=flat-square)
 
 </div>
@@ -41,7 +42,7 @@ I use AI tools in my development process and have experience designing, testing 
 | | Technologies & Practices |
 | :--- | :--- |
 | **Backend** | C#, .NET, ASP.NET Core, Entity Framework Core, Python, Flask |
-| **Databases** | SQL Server, MySQL |
+| **Databases** | SQL Server, PostgreSQL |
 | **Frontend** | JavaScript, React, HTML, CSS |
 | **AI** | Prompt design, testing and refinement, AI-assisted development |
 | **Tools & Delivery** | Git, Azure DevOps, CI/CD, Agile/Scrum |
